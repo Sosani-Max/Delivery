@@ -16,7 +16,7 @@ class _RiderPageState extends State<RiderPage> {
       "status": "รอรับพัสดุ",
     },
     {
-      "recipient": "คุณสายฝน",
+      "recipient": "คุณสมศรี",
       "address": "456 ถนนรัชดา",
       "phone": "0898765432",
       "status": "กำลังส่ง",
